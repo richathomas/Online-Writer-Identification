@@ -16,3 +16,10 @@ The writer identification system focuses on assigning authorship of a handwritte
 
 ✅ Each document is represented using a unique identifier called a descriptor.
 
+### RESULTS
+
+ ✅ An additional feature called Speed feature is added .
+ 
+ ✅ It slightly improved the accuracy in identifying the proper writer.
+ 
+ ✅ by adding speed, the writer detection rate has been increased from 74.56% to 78.33%.
