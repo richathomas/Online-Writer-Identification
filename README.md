@@ -9,7 +9,10 @@ The writer identification system focuses on assigning authorship of a handwritte
 #### MOTIVATION
 
 ✅ A  stroke is a continuous movement of a writing instrument on a writing surface.
+
 ✅ Generates a dictionary using the features derived.
+
 ✅ Encodes the sub-strokes using the atoms derived from the dictionary to form a descriptor.
+
 ✅ Each document is represented using a unique identifier called a descriptor.
 
